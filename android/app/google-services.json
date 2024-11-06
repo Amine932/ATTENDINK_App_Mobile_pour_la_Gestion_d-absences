@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "823942322745",
+    "project_id": "attendink-91925",
+    "storage_bucket": "attendink-91925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823942322745:android:91d538863af40a3d0b4be8",
+        "android_client_info": {
+          "package_name": "com.example.attendink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823942322745-kjv5a04f4c6fhd03v0l9gg0f05bd8cpb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.attendink",
+            "certificate_hash": "b1b210d8b2cd7802a450f3f1605ebb58cde2399d"
+          }
+        },
+        {
+          "client_id": "823942322745-d8fcshpp6ujqbubl85vthlnaf50bskn3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-88wsufLpa0bffTTdVN_5AmBi2qt38sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823942322745-d8fcshpp6ujqbubl85vthlnaf50bskn3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
